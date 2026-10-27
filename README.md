@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Short.io is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://short.io/
+Short.io provides a URL shortening platform with custom domains, detailed analytics, QR code generation, and deep link debugging. It serves businesses and developers with integrations, enterprise features, and a robust API for creating, managing, and tracking short links across multiple domains and campaigns.
+
+**Areas:** URL-shortening · Analytics · QR-codes · Enterprise · Integrations
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://short.io/)
+- [Documentation](https://docs.short.io/)
+- [Getting started](https://docs.short.io/category/get-started)
+- [API reference](https://docs.short.io/api-reference)
+- [Pricing](https://short.io/pricing)
+- [Changelog](https://docs.short.io/changelog)
+- [Blog](https://blog.short.io)
+- [Compliance](https://trust.short.io/)
+- [Terms of service](https://short.io/terms)
+- [Privacy policy](https://short.io/privacy)
+
+**APIs profiled:** 11
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/short-io/](https://apis.io/providers/short-io/).
